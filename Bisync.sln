@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tester", "Tester\Tester.csproj", "{F3199758-C44A-4219-A4D7-F6DEA81ED7F8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bisync", "Bisync\Bisync.csproj", "{E41B6C1F-960A-4566-94BA-4E954959989B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F3199758-C44A-4219-A4D7-F6DEA81ED7F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3199758-C44A-4219-A4D7-F6DEA81ED7F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3199758-C44A-4219-A4D7-F6DEA81ED7F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3199758-C44A-4219-A4D7-F6DEA81ED7F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E41B6C1F-960A-4566-94BA-4E954959989B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E41B6C1F-960A-4566-94BA-4E954959989B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E41B6C1F-960A-4566-94BA-4E954959989B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E41B6C1F-960A-4566-94BA-4E954959989B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
